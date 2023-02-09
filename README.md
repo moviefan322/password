@@ -10,9 +10,11 @@ Installation for this webpage is not necessary, the deployed website can be view
 
 ## Usage
 
-Simply naviate to the following URL to learn all about the wonderful services Horiseon has to offer: https://moviefan322.github.io/challenge-1/
+Simply naviate to the following URL and get yourself a super secure password!
 
-![Screenshot of webpage](./Develop/assets/images/horiseon-screenshot.png)
+ghttps://moviefan322.github.io/challenge-1/
+
+![Screenshot of webpage](./Develop/Screenshot.png)
 
 ## Credits
 
